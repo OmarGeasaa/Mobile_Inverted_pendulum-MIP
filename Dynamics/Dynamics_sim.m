@@ -94,11 +94,11 @@ function Xd = dynamics(params, t, X)
   dth = X(3);
   dphi = X(4);
 
-  % leave as 0 till next week
+  % This is calculating the dynamics only without considering the controlling input so u=0
   u = 0;
 
   Xd(1:2) = X(3:4);
-  % STUDENT COMPLETES THIS
+  
   Xd(3:4) = Equation_of_motion(params, th, phi, dth, dphi, u);
 end
 
