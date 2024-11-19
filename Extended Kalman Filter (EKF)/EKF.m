@@ -1,6 +1,6 @@
 
 function xhat = EKF(t, z)
-  % In this exercise, you will batch-process this data: you are provided a
+
   % vector of timestamps (of length T), and a 3xT matrix of observations, z.0
   n=length(t);
   xhat = zeros(2,length(t));
