@@ -1,8 +1,7 @@
 
 function u = controllerNoisyEnc(params, t, obs, th, dth)
-  % This is the starter file for the week5 assignment
-  % Now you only receive noisy measurements for theta, and must use your EKF from week 3 to filter the data and get an estimate of the state
-  % obs = [ay; az; gx] (same as last week)
+  % Now you only receive noisy measurements for theta, 
+  % obs = [ay; az; gx] 
   % New for 6b: you also have access to params.traj(t)
 
 
