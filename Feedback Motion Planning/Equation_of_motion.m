@@ -1,6 +1,6 @@
 function qdd = Equation_of_motion(params, th, phi, dth, dphi, u)
-  % This is the starter file for the week5 assignment
 
+  
   % Provided params are
   % params.g: gravitational constant
   % params.mr: mass of the "rod"
