@@ -1,7 +1,7 @@
 
 function robotSim()
-  % This file is starter code
-  %system constants
+  
+  %system parameters
   params = struct();
 
   params.g = 9.81;
