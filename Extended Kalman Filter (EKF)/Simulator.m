@@ -1,6 +1,5 @@
 
 function EKF()
-  % starter code for loading both trials and plotting the result
   load data.mat
 
   figure('Name', 'Trial 0')
