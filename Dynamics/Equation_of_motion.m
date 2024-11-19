@@ -34,5 +34,5 @@ function qdd = Equation_of_motion(params, th, phi, dth, dphi, u)
   b(2,1) = m*l*sin(phi)*(g + r*dphi^2);
   
   qdd = A\b;
-  % THE STUDENT WILL FILL THIS OUT
+  
 end
