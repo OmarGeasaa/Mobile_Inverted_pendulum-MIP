@@ -1,4 +1,5 @@
 # Mobile_Inverted_pendulum-MIP
 
 
-![MIP](https://github.com/user-attachments/assets/beabae37-61fe-475b-b9b0-94524e64122c)
+![Screenshot 2024-11-19 184659](https://github.com/user-attachments/assets/8562fe81-b0f1-4755-8df8-245a424951bf)
+
